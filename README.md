@@ -1,7 +1,6 @@
-# The OpenID Connect Handbook
+# Taken from the OpenID Connect Handbook
 
-This repository is a sample Node.js and Express web application that handles user sign in through OpenID Connect. This application was created to help the community learn about OpenID Connect and OAuth 2.0 and is part of The OpenID Connect Handbook.
+It is a simple implementation of the implicit flow to receive an id token. You will need to to createa a filed name .env and fill the values OIDC_PROVIDER and CLIENT_ID (see temp.env for template)
 
 You can find the handbook here: https://auth0.com/resources/ebooks/the-openid-connect-handbook
-fdfdfd
-Have fun!
+
